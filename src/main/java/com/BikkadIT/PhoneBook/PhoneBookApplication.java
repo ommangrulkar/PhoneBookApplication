@@ -1,4 +1,4 @@
-package com.BikkadIT.PhoneBookApplication;
+package com.BikkadIT.PhoneBook;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
